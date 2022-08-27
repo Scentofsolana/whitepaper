@@ -43,3 +43,7 @@ Scorpion
 |      100 ml     | <mark style="background-color:orange;">Unique</mark>            |
 |      70ml       | <mark style="background-color:blue;">Rare</mark>                |
 |       50ml      | <mark style="color:green;background-color:green;">Commom</mark> |
+
+Three types of NFT will be available. ERA1 Scent bottle (Genesis), <mark style="color:green;">LaNd</mark> and ERA2 Empty bottle. These NFT will create and opportunity to gather <mark style="color:blue;">SPRING</mark> water token from the <mark style="color:green;">LaNd</mark>, collect it and then sell it to the <mark style="color:blue;">SPRING</mark> pool.
+
+<figure><img src="../.gitbook/assets/unique-50.png" alt=""><figcaption><p>ERA1 Scent bottle</p></figcaption></figure>
