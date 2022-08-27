@@ -30,6 +30,7 @@ November - 2022
 * [ ] Scent app on android ios application.&#x20;
 * [ ] Decentralized Wallet in app on Solana Blockchain.
 * [ ] Full Earn/Sell/Buy/Burn/Discover/ possibilities.
+* [ ] SPRING pool introduction.
 
 
 
