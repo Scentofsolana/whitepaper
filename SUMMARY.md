@@ -9,4 +9,4 @@
 * [🐮 Roadmap](scent-of-solana/roadmap.md)
 * [🐨 Tokenomics](scent-of-solana/tokenomics.md)
 * [🐦 Wallet (Coming soon)](scent-of-solana/wallet-coming-soon.md)
-* [🦅 Spring Pool](scent-of-solana/spring-pool.md)
+* [🦅 SPRING Pool](scent-of-solana/spring-pool.md)
