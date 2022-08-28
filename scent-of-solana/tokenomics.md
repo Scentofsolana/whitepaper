@@ -1,5 +1,7 @@
 # 🐨 Tokenomics
 
+<figure><img src="../.gitbook/assets/250.png" alt="Spring token"><figcaption><p>SPRING token</p></figcaption></figure>
+
 ## Game token - SPRING
 
 * TOKEN – SOLANA CHAIN
