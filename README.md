@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/1500x500.jfif
-coverY: -95.0920245398773
+cover: .gitbook/assets/FaOzYycXwAEe8k- (1).jfif
+coverY: 538.1758691206544
 ---
 
 # 🐭 Getting started
