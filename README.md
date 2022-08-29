@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/FaOzYycXwAEe8k- (1).jfif
+cover: .gitbook/assets/FaOzYycXwAEe8k-.jfif
 coverY: 538.1758691206544
 ---
 
