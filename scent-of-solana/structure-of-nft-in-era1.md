@@ -23,18 +23,14 @@ Lavander
 Oakmoss
 
 Acorn
-{% endtab %}
-
-{% tab title="Fresh Birth" %}
-Cucumber
 
 Pine
 
 Larch
 {% endtab %}
 
-{% tab title="Oriental " %}
-Fungus
+{% tab title="Refined" %}
+Mosshroom
 
 Scorpion
 {% endtab %}

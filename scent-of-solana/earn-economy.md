@@ -4,6 +4,8 @@ Scent economy is based on NFT ERA1 (genesis) holdings. Each holder will be airdr
 
 Later, Scent economy will include recipes and different bottles as NFT. Users will have a flexible way to create/burn/sell/buy any of NFT or token. In ERA3 <mark style="color:green;">LaNd</mark> map will be revealed, where <mark style="color:green;">LaNd</mark> owners will bet more ways to contribute to their earnings. Creativity is the key to a perfect Scent.
 
+Every day, at 3:00 UTC <mark style="color:green;">LaNd</mark> will generate a 100 <mark style="color:blue;">SPRING</mark> tokens, aka 100 ml of spring water. Depenging on your NFT bottle capacity you will be able to store and add a scent to make it SCENT bottle which will be more rich in value, or you could grind your <mark style="color:blue;">SPRING</mark> everyday and sell it to the <mark style="color:blue;">SPRING</mark>  pool
+
 {% hint style="success" %}
 <mark style="color:blue;">SPRING</mark> token will be also used for acquiring fragrance/scent notes or refill bottle later, in ERA3
 {% endhint %}
