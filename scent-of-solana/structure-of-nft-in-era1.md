@@ -14,7 +14,9 @@ Base Scent element
 {% tab title="Floral Fields" %}
 Jasmine
 
-Sage
+Sage&#x20;
+
+Lavander
 {% endtab %}
 
 {% tab title="Woody Forest" %}
@@ -32,7 +34,7 @@ Larch
 {% endtab %}
 
 {% tab title="Oriental " %}
-Musk
+Fungus
 
 Scorpion
 {% endtab %}
