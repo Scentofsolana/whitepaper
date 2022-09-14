@@ -14,7 +14,7 @@ Wonder how Solana smells? This project will fly you to the scent universe of Sol
 | Quick ERA1 Facts                    |
 | ----------------------------------- |
 | **Project name: Scent of Solana**   |
-| **ERA1 phase NFT count: 5000**      |
+| **ERA1 phase NFT count: 3000**      |
 | **Project token: SPRING**           |
 | **Spring token total: 120 000 000** |
 | **100 whitelist members**           |
