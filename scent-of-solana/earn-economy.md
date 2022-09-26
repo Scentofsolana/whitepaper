@@ -1,3 +1,7 @@
+---
+description: \| Every Scent of Solana NFT can produce from 50 to 100 SPRING tokens per day.
+---
+
 # 🐼 Earn economy!
 
 Scent economy is based on NFT ERA1 (genesis) holdings. Each holder will be airdropped with two NFT's - <mark style="color:green;">LaNd</mark> and ERA2 empty bottle. <mark style="color:green;">LaNd</mark> is an NFT which will have one attribute - endless cold water spring. Owning the <mark style="color:blue;">LaNd</mark> there will be the possibility to pour a SPRING token to the ERA2 empty bottle. Filled bottles could be sold/traded/burned in <mark style="color:blue;">SPRING</mark> pool.
