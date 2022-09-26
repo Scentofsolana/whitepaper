@@ -7,6 +7,16 @@ coverY: 538.1758691206544
 
 ## Vision and mission
 
+
+
+**Scent of Solana** is an Interactive collection of NFTs.
+
+<mark style="color:blue;">**SPRING**</mark> token is the water source that supports the entire Scent of Solana ecosystem.&#x20;
+
+<mark style="color:green;">LaNd</mark> NFT is the main water source
+
+
+
 Wonder how Solana smells? This project will fly you to the scent universe of Solana blockchain. Our goal is to mix in the millions of NFT and provide a special Scent in your wallet. Scent of Solana is unique and a must have NFT for everyone, especially for those who already have an NFT collection in their wallet. In this case, the bottle of scent will let your collection reborn with a new smell. Works perfectly with all NFT’s. Scent of solana provides not just the NFT, but a Litemeta of additional platforms to get users to earn <mark style="color:blue;">**SPRING**</mark> tokens, discover unique Scents and get into the adventure.
 
 
